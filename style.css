@@ -1,0 +1,27 @@
+.body_backgorund{
+background-image:url("https://th.bing.com/th/id/R.7afca34fb385062a944b5e7c25bc3f0f?rik=%2bWwbm5yJ0FzLvw&pid=ImgRaw&r=0");
+background-position: center;
+background-size:cover;
+}
+h1{
+color: rgb(250, 255, 255);
+font-weight: bold;
+margin: 20px;
+font-size: 40px;
+background-color: darkslategrey;
+width: 400px;
+}
+#myCanvas{
+border-width: 10px;
+background-color: rgb(255, 255, 255);
+border-style: groove;
+
+
+}
+span{
+
+    font-size: 20px;
+    color: floralwhite;
+    background-color: darkslategrey;
+    width: auto;
+}
